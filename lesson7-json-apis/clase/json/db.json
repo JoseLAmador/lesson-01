@@ -1,0 +1,50 @@
+{
+  "peliculas": [
+    {
+      "name": "Despertar del Diablo",
+      "duration": 90,
+      "description": "Un viaje familiar por carretera se vuelve aterrador cuando los viajeros se extravían en una zona atómica establecida por el Gobierno estadounidense.",
+      "genre": "Terror",
+      "director": "Alexandre Aja",
+      "rating": 77,
+      "year": 2006
+    },
+    {
+      "name": "Cuarto Contacto",
+      "duration": 120,
+      "description": "Desde los años sesenta, un desproporcionado número de personas han sido reportadas como desaparecidas alrededor de Nome, Alaska.",
+      "genre": "Suspenso",
+      "director": "Olatunde Osunsanmi",
+      "rating": 82,
+      "year": 2009
+    },
+    {
+      "name": "Toy Story",
+      "duration": 90,
+      "description": "Toy Story es una franquicia de Disney animada por computadora que comenzó en 1995 con el lanzamiento de la película animada del mismo nombre, producida por Pixar Animation Studios y lanzada por Walt Disney Pictures.",
+      "genre": "Infantil",
+      "director": "Josh Cooley",
+      "rating": 90,
+      "year": 1995
+    },
+    {
+      "name": "Tiburon",
+      "duration": 120,
+      "description": "Un gigantesco tiburón blanco amenaza a los habitantes y turistas de un pueblo costero. El alcalde encomienda la caza del escualo al jefe de la policía, un pescador y un científico.",
+      "genre": "Terror",
+      "director": "Steven Spielberg",
+      "rating": 68,
+      "year": 1975
+    }
+  ],
+  "series": [
+    {
+      "name": "Club de Cuervos",
+      "duration": 120
+    },
+    {
+      "name": "Breaking Bad",
+      "duration": 120
+    }
+  ]
+}
