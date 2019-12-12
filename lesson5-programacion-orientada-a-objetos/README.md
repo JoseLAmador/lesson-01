@@ -1,4 +1,4 @@
-# Sesión 7: Programación Orientada a Objetos | Módulo JS
+# Sesión: Programación Orientada a Objetos | Módulo JS
 
 El alumno obtendrá un dominio del paradigma de programación orientada a objetos aplicando sus pilares y construyendo clases para controlar el instanciamiento. 
 
